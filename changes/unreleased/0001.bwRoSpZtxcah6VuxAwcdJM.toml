@@ -1,0 +1,5 @@
+other = "Bump the uv group across 1 directory with 13 updates"
+[[pull_requests]]
+uid = "1"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
